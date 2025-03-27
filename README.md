@@ -6,7 +6,7 @@
 
 <h1 align="center">Hi 👋, I'm Utsav Sabharwal</h1>
 <h3 align="center">Utsav Sabharwal| Aspiring Developer</h3>
-<img align="right" alt="coding" width=300 boder-radius=10 src="https://media1.tenor.com/m/FetQ_KhWgd4AAAAd/chill-guy.gif">
+<img align="right" alt="coding" width=300 boder-radius=10 src="https://media1.tenor.com/m/q2eL6vNVKf4AAAAC/bhai-kya-kar-raha-hai-tu-ashneer-grover.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=utsav0001&label=Profile%20views&color=0e75b6&style=flat" alt="utsav0001" /> </p>
 
